@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hey 👋 I'm Afeesudheen</h1>
   <p>
-    <a href="https://stackoverflow.com/users/12023459/afeesudheen">Stack<b>overflow<b></a>
+    <a href="https://stackoverflow.com/users/12023459/afeesudheen">Stack<b>overflow</b></a>
     <span> </span>
     <a href="https://www.linkedin.com/in/afeesudheen">Linkdin</a>
     <span> </span>
