@@ -3,7 +3,7 @@
   <p>
     <a href="https://stackoverflow.com/users/12023459/afeesudheen">Stack<b>overflow</b></a>
     <span> </span>
-    <a href="https://www.linkedin.com/in/afeesudheen">Linkdin</a>
+    <a href="https://www.linkedin.com/in/afeesudheen">Linkedin</a>
     <span> </span>
     <a href="https://afeesudheen.web.app/">Portfolio</a>
   </p>
