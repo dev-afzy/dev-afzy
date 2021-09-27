@@ -36,5 +36,3 @@ Contributions and Conversations are always welcome.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-afzy&show_icons=true&locale=en&layout=compact" alt="dev-afzy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-afzy&show_icons=true&locale=en" alt="dev-afzy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-afzy&" alt="dev-afzy" /></p>
