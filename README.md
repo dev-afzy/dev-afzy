@@ -33,7 +33,7 @@ You can probably find related open source repositories 👆
 
 Contributions and Conversations are always welcome. 
 
-## statistics
+## Statistics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-afzy&show_icons=true&locale=en&layout=compact" alt="dev-afzy" /></p>
 <br>
